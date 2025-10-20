@@ -78,5 +78,41 @@
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
+    <url>
+        <loc>https://riyadhpaintting.com/blog/index.html</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://riyadhpaintting.com/blog/why-paint-peels.html</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://riyadhpaintting.com/blog/jotun-5000-vs-2000.html</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://riyadhpaintting.com/blog/wallpaper-in-kitchen.html</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://riyadhpaintting.com/blog/why-canopy-deteriorates.html</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://riyadhpaintting.com/blog/renovation-vs-new-painting.html</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
     
 </urlset>
